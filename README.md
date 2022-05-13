@@ -1,8 +1,8 @@
-<H1> IBM_python_project_4_DS <H>
+# IBM_python_project_4_DS
 Data science and analysis project for an investment firm.
 The goal is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After collecting this data you will visualize it in a dashboard to identify patterns or trends.
 
-<H2> Background Information
+# Background Information
 A company's stock share is a piece of the company; more precisely:
 
 A stock (also known as equity) is a security that represents the ownership of a fraction of a corporation. This
